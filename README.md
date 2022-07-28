@@ -9,7 +9,7 @@ React JS. This app uses modern React Hooks such as
 useDispatch, useSelector
 . This application was
 built using Redux toolkit for global state management
-The user can increment, decrement or increment by 10 in the counter
+The user can increment, decrement in the counter
 
 ## Built Using
 
