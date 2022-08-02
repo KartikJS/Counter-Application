@@ -2,6 +2,10 @@
 
 ![App Screenshot](src/img/CounterApp.png)
 
+## Demo
+
+[View Demo](https://reactcounterapp.web.app/)
+
 ## About The Project
 
 Counter is an application built using
